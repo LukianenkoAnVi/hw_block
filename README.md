@@ -1,6 +1,6 @@
 # hw_block
 
-A new Flutter project.
+block: Переписка стандартного счетчика 
 
 ## Getting Started
 
